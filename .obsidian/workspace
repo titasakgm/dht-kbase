@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "40bb496248c4600b",
+    "type": "split",
+    "children": [
+      {
+        "id": "66eb241d23c0aaa2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DHT-MoPH/01-Blockchain in Healthcare.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5cdf069e8d0837e",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb7cd9abfb52219d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4684da41da7611f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d5cdf6429012e35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4751905ed9835592",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19536f9c0b06b61b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3fa0068b361a6ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6222a93d04892af2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DHT-MoPH/01-Blockchain in Healthcare.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f55f99a565c8ef1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DHT-MoPH/01-Blockchain in Healthcare.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ace1df9c81d1b7cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c8ecb656b1c638e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DHT-MoPH/01-Blockchain in Healthcare.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "66eb241d23c0aaa2",
+  "lastOpenFiles": [
+    "PDF/11-74-ablockchainforhealthcare.pdf",
+    "DHT-MoPH/01-Blockchain in Healthcare.md"
+  ]
+}
