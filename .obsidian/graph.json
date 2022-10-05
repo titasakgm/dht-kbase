@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "DHT-MoPH",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -18,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 8,
-  "close": false
+  "close": true
 }
